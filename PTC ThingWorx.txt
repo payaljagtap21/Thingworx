@@ -1,0 +1,288 @@
+https://www.ptc.com/en/thingworx-applications/manufacturing
+https://players.brightcove.net/1532789042001/HknUe20R_default/index.html?videoId=6346426115112
+https://www.ptc.com/en/products/digital-performance-management
+https://players.brightcove.net/1532789042001/HknUe20R_default/index.html?videoId=6347204288112
+
+
+Reference docs for all versions:
+https://support.ptc.com/help/thingworx/platform/r9/en/index.html#page/ThingWorx/Help/Installation/DataCollectionInThingWorx.html#
+
+https://community.ptc.com/
+
+https://learningconnector.ptc.com/support
+
+https://www.ptc.com/en/support
+
+https://learningconnector.ptc.com/discovery
+
+https://learningconnector.ptc.com/support
+
+https://training-materials.ptcu.com/
+
+https://www.ptc.com/en/support/producthome
+
+Sandbox:
+https://community.ptc.com/t5/ThingWorx-Developers/bd-p/twxdevs
+
+PTC community for IOT Tips:
+https://community.ptc.com/t5/IoT-Tips/Get-Started-with-ThingWorx-for-IoT-Guide-Part-1/ta-p/810540#toc-hId-1817284506
+https://community.ptc.com/t5/IoT-Tips/tkb-p/tkb_iottips
+
+https://www.ptc.com/en/?_gl=1*nko2iw*_ga*MTk5ODM2NzE3MC4xNzEzMjEwMDUx*_ga_7NMP2MSYPM*MTcxMzIxNjY4OC4yLjEuMTcxMzIxODEzOS41OC4wLjA.*_ga_CBN5QVB9VJ*MTcxMzIxNzc0NS4yLjEuMTcxMzIxODEzOS4wLjAuMA..
+
+PTC knowledge base:Find helpful tutorials, best practices, and help from Tech Support articles to solve problems. 
+https://www.ptc.com/en/support/search?source=emailBasic
+
+Reference documents:Find important documentation such as installation guides, what's new, and compatibility matrices.
+https://www.ptc.com/en/support/refdoc?elqTrackId=CBCBEF5584258D40879014D6368D765D&elqTrack=true&source=emailBasic
+https://www.ptc.com/en/support/refdoc
+
+PTC Community. Need help with your product? Ask a question, connect with industry experts, and collaborate with PTC. 
+https://support.ptc.com/apps/cs_loggers/community_sso/auth/ssl/do_login
+
+Customer Support Guide. If you need support, PTC offers four options including self help and on-demand system scans
+https://www.ptc.com/en/support/customer-support-guide
+
+
+
+https://community.ptc.com/t5/IoT-Tips/Getting-Started-on-the-ThingWorx-Platform-Learning-Path/ta-p/810746
+
+
+
+PTC Windchill is a product lifecycle management (PLM) software developed by PTC. It's designed to help companies manage their product development processes, from initial design to manufacturing and beyond.
+Overall, PTC Windchill streamlines the product development process, improves collaboration, and helps companies bring high-quality products to market more efficiently.
+Here's how it's commonly used:
+Product Data Management
+Collaboration
+Change Management
+Document Management
+Configuration Management
+Quality Management
+Supplier Collaboration
+Compliance Management
+
+PTC ThingWorx Navigate is a role-based application designed to provide contextualized access to product lifecycle information stored in PTC's Windchill PLM system
+Here's how ThingWorx Navigate is typically used:
+Role-Based Access
+Simplified Interface
+Contextualized Information
+Search and Navigation
+Integration with Windchill
+
+
+PTC Creo is a suite of design, analysis, and manufacturing tools developed by PTC
+It's widely used in various industries for product design and development. 
+Here's how it's commonly used:
+Computer-Aided Design (CAD)
+Parametric Modeling:
+Simulation and Analysis
+Multi-CAD Compatibility
+Additive Manufacturing
+Tooling and Mold Design
+Sheet Metal Design
+Collaborative Design
+Integration with PTC Windchill
+
+
+Last updated May 24, 2023
+Whats new in THingWorx 9.4
+https://community.ptc.com/t5/IoT-Tips/ThingWorx-v9-4-is-available-now/ta-p/877291
+
+
+
+ThingWorx: Fundamentals Overview
+
+IoT Platform: ThingWorx serves as a comprehensive IoT platform that provides tools and services for developing, deploying, and managing IoT applications and solutions.
+
+Connectivity: At its core, ThingWorx enables connectivity between devices, sensors, machines, and systems, allowing them to communicate and exchange data in real-time.
+
+Data Ingestion: ThingWorx facilitates the ingestion of data from connected devices and systems, including sensor readings, telemetry data, machine data, and other types of data streams.
+
+Data Processing: Once data is ingested, ThingWorx offers capabilities for processing, analyzing, and contextualizing the data to derive insights and actionable information.
+
+Application Development: ThingWorx provides tools and frameworks for rapidly developing IoT applications, including drag-and-drop interfaces, reusable components, and pre-built templates.
+
+Analytics: ThingWorx includes built-in analytics capabilities for performing real-time and historical analysis of IoT data, enabling predictive maintenance, anomaly detection, optimization, and other advanced analytics use cases.
+
+Visualization: ThingWorx offers visualization tools for creating interactive dashboards, charts, graphs, and reports to visualize IoT data and insights in a meaningful and intuitive way.
+
+Integration: ThingWorx supports integration with existing enterprise systems, including ERP, CRM, PLM, and MES systems, enabling seamless data exchange and interoperability between IoT and business applications.
+
+Security: Security is a key focus of ThingWorx, with features such as authentication, authorization, encryption, and role-based access control to ensure the confidentiality, integrity, and availability of IoT data and applications.
+
+Scalability: ThingWorx is designed to scale from small deployments to large-scale enterprise IoT initiatives, supporting thousands to millions of connected devices and data points.
+
+Edge Computing: ThingWorx offers edge computing capabilities for deploying IoT applications and performing data processing at the edge of the network, closer to where data is generated, to enable real-time insights and actions.
+
+Lifecycle Management: ThingWorx provides tools for managing the entire lifecycle of IoT applications, from development and testing to deployment, monitoring, and ongoing maintenance.
+
+In summary, ThingWorx is a versatile and feature-rich IoT platform that empowers organizations to connect, analyze, and leverage IoT data to drive digital transformation, improve operational efficiency, and create new business opportunities.
+
+ThingWorx: Fundamentals Of Modeling 1
+Thing Model: At the core of ThingWorx modeling is the concept of a "Thing." A Thing represents a physical or virtual entity in the IoT ecosystem, such as a device, sensor, machine, or system. Things encapsulate properties, services, and events that define their behavior and capabilities.
+
+Properties: Properties are attributes of a Thing that represent its state or characteristics. For example, a temperature sensor Thing may have properties such as "temperature," "humidity," and "status." Properties can store data values, such as numerical values, strings, Boolean values, or complex data types.
+
+Services: Services are operations or functions that a Thing can perform. They encapsulate logic and functionality that allow Things to interact with each other or with external systems. Services can be invoked remotely to trigger actions, retrieve data, or perform computations.
+
+Events: Events are notifications or messages that a Thing can generate in response to certain conditions or triggers. They represent changes in the state or behavior of a Thing and can be used to signal important events or anomalies. Events can be subscribed to by other entities for real-time monitoring and alerting.
+
+Thing Templates: ThingWorx supports the concept of Thing templates, which are reusable blueprints or templates for creating similar types of Things. Thing templates define a common set of properties, services, and events that can be inherited by multiple instances of Things, streamlining the modeling process and promoting consistency.
+
+Thing Shapes: Thing shapes are similar to Thing templates but provide a more flexible mechanism for defining common characteristics or behaviors that can be shared across multiple Thing templates. Thing shapes can be used to group and organize related properties, services, and events that are shared among different types of Things.
+
+Hierarchy and Composition: Things in ThingWorx can be organized into hierarchical structures or composed of other Things. This allows for the modeling of complex relationships and dependencies between different entities in the IoT ecosystem, such as parent-child relationships or aggregations of Things into higher-level entities.
+
+Modeling Entities: In addition to Things, ThingWorx supports the modeling of other entities such as Data Shapes, Data Tables, Mashups, and Organizations, which enable the creation of more comprehensive and integrated IoT solutions.
+
+By leveraging these fundamental modeling concepts, ThingWorx enables developers and solution architects to design and implement sophisticated IoT solutions that effectively represent the physical and virtual entities within their IoT ecosystem, enabling seamless connectivity, data management, and application development.
+
+ThingWorx: Fundamentals Of Modeling 2
+Continuing from where we left off, let's delve deeper into the fundamentals of modeling in ThingWorx:
+
+Data Shapes: Data Shapes are reusable structures for defining the format and structure of data within ThingWorx. They allow you to define custom data types consisting of multiple fields or attributes. Data Shapes are commonly used to standardize data structures across applications and services.
+
+Data Tables: Data Tables are tabular data structures that allow you to store and manage structured data in ThingWorx. They provide a way to organize and store large volumes of data, such as historical sensor readings, device configurations, or user information. Data Tables support features like filtering, sorting, and querying for efficient data retrieval and manipulation.
+
+Services and Scripting: ThingWorx allows you to define custom services using JavaScript or Java, which can be associated with Things, Thing Templates, or standalone entities. Services enable you to implement custom business logic, data processing, and integration with external systems. They can be triggered manually or invoked programmatically in response to events or actions.
+
+Bindings and Expressions: Bindings and expressions in ThingWorx allow you to dynamically link properties, services, and events together. Bindings enable you to establish relationships between different entities within the platform, such as binding a property value to the result of a service invocation or dynamically updating a user interface component based on changes to a Thing's state.
+
+Event Subscriptions and Handlers: Event subscriptions and handlers enable you to listen for and react to events generated by Things or other entities within ThingWorx. You can define event subscriptions to trigger actions or execute services in response to specific events, allowing for real-time event-driven interactions and workflows.
+
+Modeling Best Practices: ThingWorx provides guidelines and best practices for modeling IoT solutions effectively. This includes considerations such as designing scalable and efficient data models, optimizing performance, ensuring data integrity and security, and promoting reusability and maintainability through modular and well-organized designs.
+
+Versioning and Lifecycle Management: ThingWorx offers versioning and lifecycle management capabilities to track changes to model entities over time and manage their lifecycle from development to deployment. Versioning allows you to create snapshots of model entities at different points in time, facilitating collaboration, auditing, and rollback of changes.
+
+By mastering these fundamental modeling concepts and techniques, developers and architects can leverage the full power of ThingWorx to design and implement robust, scalable, and maintainable IoT solutions that meet the evolving needs of their organizations.
+
+ThingWorx: Fundamentals of Creating a Mashup.
+Creating a mashup in ThingWorx involves combining different visual components, such as charts, gauges, tables, and forms, into a single web-based user interface to visualize and interact with IoT data and applications. Here's a step-by-step guide to the fundamentals of creating a mashup in ThingWorx:
+
+Access ThingWorx Composer: Log in to ThingWorx Composer, the web-based development environment for ThingWorx, using your credentials.
+
+Navigate to Mashups: In the Composer navigation pane, locate and click on the "Mashups" section to access the mashup development interface.
+
+Create a New Mashup: Click on the "New Mashup" button or right-click in the Mashups pane and select "New Mashup" to create a new mashup.
+
+Design the Mashup Interface: In the mashup editor, you'll see a canvas where you can design the layout and add components to your mashup. Drag and drop components from the palette onto the canvas to add them to your mashup.
+
+Select and Configure Components: Click on a component to select it, then use the properties pane to configure its settings, such as data bindings, appearance, behavior, and interactions. Configure each component according to your requirements and design preferences.
+
+Add Data Sources: Mashups in ThingWorx are typically connected to data sources, such as Things, services, or data tables, to retrieve and display IoT data. Use the Data pane to add data sources to your mashup and establish bindings between components and data properties.
+
+Define Interactions: Implement interactions between components to enable dynamic behavior and user engagement. For example, you can define event handlers to trigger actions in response to user interactions, such as clicking a button or selecting an item from a dropdown list.
+
+Preview and Test: Use the preview mode to test your mashup and ensure that it functions as expected. Previewing allows you to interact with the mashup in a simulated runtime environment, allowing you to identify and fix any issues or inconsistencies.
+
+Refine and Iterate: Refine the design and functionality of your mashup based on feedback and testing results. Iterate on your design by making adjustments, enhancements, and optimizations to improve usability, performance, and user experience.
+
+Publish the Mashup: Once you're satisfied with your mashup, publish it to make it available for use by end-users. Publishing deploys the mashup to the ThingWorx runtime environment, where it can be accessed and used within applications or embedded in other web pages.
+
+Deploy and Integrate: Integrate the published mashup into your IoT applications, dashboards, or portals to provide users with access to real-time data visualization and interaction capabilities. Deploy the mashup to production environments to enable widespread adoption and usage.
+
+By following these fundamentals of creating a mashup in ThingWorx, you can design and develop rich, interactive user interfaces that empower users to visualize, analyze, and act on IoT data and insights effectively.
+
+ThingWorx: Fundamentals of Connectivity
+The fundamentals of connectivity in ThingWorx involve establishing connections between devices, systems, and data sources to enable the exchange of information and facilitate IoT solutions. Here's an overview of the key concepts:
+
+Device Integration: ThingWorx provides tools for integrating diverse devices, sensors, and equipment into IoT solutions. This involves connecting devices to the ThingWorx platform using standard protocols such as MQTT, CoAP, HTTP, OPC UA, or proprietary protocols.
+
+Data Ingestion: Once devices are connected, ThingWorx ingests data generated by these devices in real-time. Data ingestion involves collecting, processing, and storing data streams from connected devices, including sensor readings, telemetry data, machine data, and other types of operational data.
+
+Connectivity Protocols: ThingWorx supports a wide range of communication protocols for device connectivity, ensuring compatibility with various types of devices and systems. These protocols enable bidirectional communication between ThingWorx and connected devices, allowing for data transmission, control commands, and status updates.
+
+Gateway Connectivity: ThingWorx offers gateway functionality to facilitate connectivity with devices that are not directly compatible with IoT protocols or require local processing before sending data to the cloud. Gateways act as intermediaries between devices and ThingWorx, translating protocols, aggregating data, and providing local intelligence.
+
+Cloud Connectivity: ThingWorx can be deployed in the cloud or on-premises, providing flexibility in connectivity options. Cloud-based deployments enable scalable and distributed IoT solutions, while on-premises deployments offer enhanced security and control over data.
+
+Security: Security is paramount in IoT connectivity. ThingWorx provides robust security features, including authentication, authorization, encryption, and secure communication protocols, to protect data and devices from unauthorized access, tampering, and cyber threats.
+
+Edge Computing: ThingWorx supports edge computing capabilities, allowing data processing and analysis to be performed closer to the source of data generation. Edge computing reduces latency, conserves bandwidth, and enables real-time decision-making, making it ideal for IoT applications that require low latency or offline operation.
+
+Integration with External Systems: ThingWorx integrates seamlessly with external systems, such as enterprise applications, databases, and third-party services, to enable data exchange and interoperability. Integration capabilities allow ThingWorx to leverage existing infrastructure and extend the reach of IoT solutions across the organization.
+
+By mastering these fundamentals of connectivity in ThingWorx, developers and architects can design, deploy, and manage robust and scalable IoT solutions that leverage the full potential of connected devices and data to drive digital transformation and business value
+
+ThingWorx's fundamentals of connectivity enable organizations to establish secure, scalable, and interoperable connections between IoT devices, systems, and applications, empowering them to unlock the full potential of their IoT initiatives and drive digital transformation.
+
+ThingWorx: Fundamentals of Analytics.
+The fundamentals of analytics in ThingWorx involve leveraging data insights to drive informed decision-making, optimize operations, and create value within IoT solutions. Here's an overview of the key concepts:
+
+Data Collection: ThingWorx collects data from connected devices, sensors, and systems in real-time. This includes raw sensor readings, machine data, telemetry data, and other types of operational data. Data collection is the foundation for analytics and provides the raw material for generating insights.
+
+Data Storage: ThingWorx stores collected data in a scalable and efficient manner, enabling historical analysis and long-term trend analysis. Data storage solutions include databases, data lakes, and time-series databases optimized for storing time-stamped data streams.
+
+Data Preprocessing: Before performing analytics, data may need to be preprocessed to clean, filter, aggregate, or transform it into a suitable format for analysis. Preprocessing tasks ensure data quality and consistency, improving the accuracy and reliability of analytics results.
+
+Descriptive Analytics: Descriptive analytics involve summarizing historical data to understand past performance and trends. This includes generating reports, dashboards, and visualizations to provide insights into key metrics, KPIs, and performance indicators.
+
+Diagnostic Analytics: Diagnostic analytics focus on identifying the root causes of past events or outcomes. This involves analyzing historical data to uncover patterns, correlations, and anomalies that may explain why certain events occurred or why certain outcomes were achieved.
+
+Predictive Analytics: Predictive analytics involve forecasting future trends, behaviors, or events based on historical data and statistical modeling techniques. Predictive models can be used to anticipate equipment failures, demand fluctuations, maintenance needs, and other future events, enabling proactive decision-making and risk mitigation.
+
+Prescriptive Analytics: Prescriptive analytics go beyond prediction to recommend specific actions or interventions to optimize outcomes. This involves using optimization algorithms, simulation models, and decision support systems to identify the best course of action based on predicted outcomes and business objectives.
+
+Machine Learning and AI: ThingWorx integrates with machine learning and artificial intelligence (AI) capabilities to enable advanced analytics and predictive modeling. Machine learning algorithms can automatically identify patterns, learn from data, and make predictions without explicit programming, enhancing the accuracy and scalability of analytics solutions.
+
+Real-Time Analytics: ThingWorx supports real-time analytics capabilities, allowing for immediate insights and actions based on streaming data. Real-time analytics enable organizations to respond quickly to changing conditions, detect anomalies in real-time, and trigger automated actions or alerts.
+
+Integration with External Tools: ThingWorx integrates with external analytics tools and platforms, enabling organizations to leverage specialized analytics capabilities, such as data mining, statistical analysis, and business intelligence (BI), in conjunction with IoT data. Integration with tools like R, Python, MATLAB, and Tableau extends the analytical capabilities of ThingWorx and enables seamless workflows across the analytics stack.
+
+By leveraging these fundamentals of analytics in ThingWorx, organizations can harness the power of data to gain actionable insights, optimize operations, improve decision-making, and drive innovation within their IoT solutions.
+
+ThingWorx: Fundamentals of Deployment.
+The fundamentals of deployment in ThingWorx involve the process of deploying IoT solutions built on the ThingWorx platform to production environments. Here's an overview of the key concepts:
+
+Environment Setup: Before deployment, it's essential to set up the target environment where the ThingWorx application will be deployed. This includes provisioning hardware infrastructure, configuring network settings, and installing prerequisite software components such as operating systems, databases, and application servers.
+
+Deployment Planning: Deployment planning involves defining the deployment strategy, including considerations such as scalability, high availability, disaster recovery, security, and compliance. It also involves identifying deployment dependencies, risks, and contingencies to ensure a smooth and successful deployment process.
+
+Configuration Management: ThingWorx provides configuration management capabilities to manage application settings, properties, and configurations across different environments. Configuration management ensures consistency and repeatability in deployment processes and simplifies the management of application settings.
+
+Application Packaging: ThingWorx applications are packaged into deployable artifacts, such as WAR files, Docker containers, or virtual machine images, for deployment to production environments. Application packaging includes bundling application code, configurations, dependencies, and resources into a portable format for easy deployment and distribution.
+
+Deployment Automation: ThingWorx supports deployment automation to streamline and accelerate the deployment process. Deployment automation tools and scripts automate the deployment of application artifacts, configuration changes, and infrastructure provisioning tasks, reducing manual effort and minimizing the risk of errors.
+
+Testing and Validation: Before deploying to production, it's crucial to conduct thorough testing and validation of the application to ensure that it functions as expected and meets quality standards. Testing may include unit testing, integration testing, system testing, performance testing, and user acceptance testing (UAT).
+
+Rollout Strategy: Deployment rollout strategy involves planning the phased rollout of the application to production environments to minimize disruption and mitigate risks. This may include deploying to a subset of users or devices initially, monitoring performance and stability, and gradually expanding deployment to larger user populations.
+
+Monitoring and Maintenance: Once deployed, ThingWorx applications require ongoing monitoring and maintenance to ensure optimal performance, availability, and reliability. Monitoring tools and dashboards provide real-time visibility into application health, performance metrics, and usage patterns, enabling proactive monitoring, troubleshooting, and optimization.
+
+Scalability and Elasticity: ThingWorx applications should be designed for scalability and elasticity to accommodate growing workloads and user demands. Scalability involves adding resources or nodes to the deployment environment to handle increased load, while elasticity involves dynamically adjusting resources based on demand fluctuations.
+
+Security and Compliance: Security is paramount in deployment, and ThingWorx provides robust security features to protect applications and data from unauthorized access, tampering, and cyber threats. Security measures include authentication, authorization, encryption, access control, and compliance with industry standards and regulations.
+
+By following these fundamentals of deployment in ThingWorx, organizations can ensure smooth, efficient, and secure deployment of IoT solutions to production environments, enabling them to leverage the full potential of ThingWorx to drive digital transformation and business value.
+
+ThingWorx: Fundamentals of Experience.
+
+The fundamentals of experience in ThingWorx involve creating intuitive, engaging, and effective user experiences for interacting with IoT solutions. Here's an overview of the key concepts:
+
+User-Centric Design: ThingWorx emphasizes user-centric design principles to ensure that IoT solutions are intuitive and easy to use for end-users. This involves understanding user needs, preferences, and workflows, and designing interfaces that align with user expectations and mental models.
+
+Persona Definition: Persona definition involves creating user personas representing different types of users who will interact with the IoT solution. Personas help design teams empathize with users, understand their goals and challenges, and tailor the user experience to meet their needs.
+
+User Journey Mapping: User journey mapping involves visualizing the end-to-end user experience, from initial interaction to task completion. It helps identify touchpoints, pain points, and opportunities for improvement in the user experience, enabling design teams to optimize user workflows and interactions.
+
+Information Architecture: Information architecture involves organizing and structuring content and functionality within the IoT solution to make it easy to navigate and find information. This includes designing intuitive navigation menus, categorizing content, and defining clear paths for user interaction.
+
+Interface Design: Interface design focuses on creating visually appealing and intuitive user interfaces (UI) for interacting with the IoT solution. This includes designing layouts, visual elements, colors, typography, and interactive components to enhance usability and engagement.
+
+Responsive Design: ThingWorx supports responsive design principles to ensure that user interfaces adapt seamlessly to different screen sizes, resolutions, and devices. Responsive design enables consistent and optimal user experiences across desktops, tablets, smartphones, and other devices.
+
+Accessibility: Accessibility is essential for ensuring that IoT solutions are usable by all users, including those with disabilities or impairments. ThingWorx promotes accessibility features such as keyboard navigation, screen reader support, contrast ratios, and alternative text for images to ensure compliance with accessibility standards.
+
+Personalization: Personalization involves tailoring the user experience to individual user preferences, roles, and contexts. ThingWorx enables personalization through features such as user profiles, custom dashboards, configurable widgets, and role-based access control, allowing users to customize their experience based on their needs and preferences.
+
+Feedback and Iteration: Feedback and iteration are integral to the experience design process, enabling design teams to gather input from users, stakeholders, and usability testing sessions, and iterate on designs based on feedback. Continuous iteration helps refine and improve the user experience over time, ensuring that it evolves to meet changing user needs and requirements.
+
+Usability Testing: Usability testing involves evaluating the effectiveness and usability of the IoT solution through real-world testing with end-users. Usability testing helps identify usability issues, validate design decisions, and gather insights for further optimization of the user experience.
+
+By focusing on these fundamentals of experience design in ThingWorx, organizations can create user-centric IoT solutions that deliver intuitive, engaging, and effective user experiences, driving user adoption, satisfaction, and success.
+ 
+
+
+
+
